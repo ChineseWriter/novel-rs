@@ -1,0 +1,8 @@
+[package]
+name = "novel-rs"
+version = "0.1.0"
+edition = "2024"
+authors = ["Amundsen Severus Rubeus Bjaaland <ChinaWhEnglish@outlook.com>"]
+description = "小说工具集"
+
+[dependencies]
