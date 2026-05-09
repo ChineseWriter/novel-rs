@@ -6,4 +6,6 @@ authors = ["Amundsen Severus Rubeus Bjaaland <ChinaWhEnglish@outlook.com>"]
 description = "小说工具集"
 
 [dependencies]
+base64 = "0.22.1"
 chrono = "0.4"
+rapidhash = "4.4.1"
